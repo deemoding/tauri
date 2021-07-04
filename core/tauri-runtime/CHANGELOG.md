@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.1.4]
+
+- Expose `gtk_window` getter.
+  - [e0a8e09c](https://www.github.com/tauri-apps/tauri/commit/e0a8e09cab6799eeb9ec524b5f7780d1e5a84299) feat(core): expose `gtk_window`, closes [#2083](https://www.github.com/tauri-apps/tauri/pull/2083) ([#2141](https://www.github.com/tauri-apps/tauri/pull/2141)) on 2021-07-02
+
 ## \[0.1.3]
 
 - `Window` is now `Send + Sync` on Windows.
